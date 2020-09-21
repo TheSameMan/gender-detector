@@ -35,7 +35,7 @@ It's stable and does a fairly good job of finding a more or less optimal solutio
 Experiments have shown that the learning rate 2e-4 is optimal for getting out of local minima.
 
 ## Results
-
+ 
 
 ## Instructions
 ### Training the network
